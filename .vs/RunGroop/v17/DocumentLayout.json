@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A.Sameh\\Git\\RunGroop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\a.sameh\\git\\rungroop\\rungroop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\a.sameh\\git\\rungroop\\rungroop\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\a.sameh\\git\\rungroop\\rungroop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\a.sameh\\git\\rungroop\\rungroop\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\a.sameh\\git\\rungroop\\rungroop\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\a.sameh\\git\\rungroop\\rungroop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\a.sameh\\git\\rungroop\\rungroop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\a.sameh\\git\\rungroop\\rungroop\\migrations\\20241223163839_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\migrations\\20241223163839_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\a.sameh\\git\\rungroop\\rungroop\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\a.sameh\\git\\rungroop\\rungroop\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\a.sameh\\git\\rungroop\\rungroop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroop\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "RunGroop\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:58:05.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RunGroop\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "RunGroop\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T20:38:57.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RunGroop\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RunGroop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:32:47.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Program.cs",
+              "RelativeDocumentMoniker": "RunGroop\\Program.cs",
+              "ToolTip": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Program.cs",
+              "RelativeToolTip": "RunGroop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:08:33.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Data\\UserRoles.cs",
+              "RelativeDocumentMoniker": "RunGroop\\Data\\UserRoles.cs",
+              "ToolTip": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Data\\UserRoles.cs",
+              "RelativeToolTip": "RunGroop\\Data\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:55:42.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RunGroop\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RunGroop\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:04:31.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "RunGroop\\Data\\Seed.cs",
+              "ToolTip": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Data\\Seed.cs",
+              "RelativeToolTip": "RunGroop\\Data\\Seed.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwJsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:12:39.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241223163839_Identity.cs",
+              "DocumentMoniker": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Migrations\\20241223163839_Identity.cs",
+              "RelativeDocumentMoniker": "RunGroop\\Migrations\\20241223163839_Identity.cs",
+              "ToolTip": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Migrations\\20241223163839_Identity.cs",
+              "RelativeToolTip": "RunGroop\\Migrations\\20241223163839_Identity.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:38:40.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "RunGroop\\Models\\AppUser.cs",
+              "ToolTip": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Models\\AppUser.cs",
+              "RelativeToolTip": "RunGroop\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:20:55.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "RunGroop\\Models\\Address.cs",
+              "ToolTip": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\Models\\Address.cs",
+              "RelativeToolTip": "RunGroop\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:02:35.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\appsettings.json",
+              "RelativeDocumentMoniker": "RunGroop\\appsettings.json",
+              "ToolTip": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\appsettings.json",
+              "RelativeToolTip": "RunGroop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T15:04:37.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
