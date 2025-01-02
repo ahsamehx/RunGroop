@@ -7033,23 +7033,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ahmed\\.nuget\\packages\\": {},
+    "C:\\Users\\edoga\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\RunGroop.csproj",
+      "projectUniqueName": "D:\\Projects\\RunGroop\\RunGroop\\RunGroop.csproj",
       "projectName": "RunGroop",
-      "projectPath": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\RunGroop.csproj",
-      "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-      "outputPath": "D:\\A.Sameh\\Git\\RunGroop\\RunGroop\\obj\\",
+      "projectPath": "D:\\Projects\\RunGroop\\RunGroop\\RunGroop.csproj",
+      "packagesPath": "C:\\Users\\edoga\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\RunGroop\\RunGroop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\edoga\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

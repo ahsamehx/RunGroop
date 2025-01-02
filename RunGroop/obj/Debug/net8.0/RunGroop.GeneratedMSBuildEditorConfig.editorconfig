@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RunGroop
 build_property.RootNamespace = RunGroop
-build_property.ProjectDir = D:\A.Sameh\Git\RunGroop\RunGroop\
+build_property.ProjectDir = D:\Projects\RunGroop\RunGroop\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\A.Sameh\Git\RunGroop\RunGroop
+build_property.MSBuildProjectDirectory = D:\Projects\RunGroop\RunGroop
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Account/Login.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Club/Create.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Club/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Club/Detail.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Club/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Club/Edit.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Club/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Club/Index.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Club/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Home/Index.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Home/Privacy.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Race/Create.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Race/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Race/Detail.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Race/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Race/Edit.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Race/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Race/Index.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Race/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Shared/Error.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/_ViewImports.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/_ViewStart.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/A.Sameh/Git/RunGroop/RunGroop/Views/Shared/_Layout.cshtml]
+[D:/Projects/RunGroop/RunGroop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-d1ve3eapx3

@@ -5,7 +5,8 @@ namespace RunGroop.ViewModels
     public class LoginViewModel
     {
         [Display(Name = "Email Address")]
-        public string Username { get; set; }
+        [Required(ErrorMessage ="Email address is required")]
+        public string EmailAddress { get; set; }
         [Required]
         [DataType(DataType.Password)]
         public string Password { get; set; }

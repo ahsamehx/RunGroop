@@ -12,8 +12,8 @@ using RunGroop.Data;
 namespace RunGroop.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20241223163839_Identity")]
-    partial class Identity
+    [Migration("20241228224816_IntialCreate")]
+    partial class IntialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
