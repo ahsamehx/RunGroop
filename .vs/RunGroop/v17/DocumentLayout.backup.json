@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\projects\\rungroop\\rungroop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\projects\\rungroop\\rungroop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\projects\\rungroop\\rungroop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\projects\\rungroop\\rungroop\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|solutionrelative:rungroop\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E86A4650-D8EB-4C9C-BD57-8768C870F9BF}|RunGroop\\RunGroop.csproj|d:\\projects\\rungroop\\rungroop\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\RunGroop\\RunGroop\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroop\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Projects\\RunGroop\\RunGroop\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "RunGroop\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:08:11.439Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -40,45 +57,23 @@
               "RelativeDocumentMoniker": "RunGroop\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Projects\\RunGroop\\RunGroop\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "RunGroop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-01T23:43:06.51Z"
+              "WhenOpened": "2025-01-01T23:43:06.51Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Projects\\RunGroop\\RunGroop\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "RunGroop\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\Projects\\RunGroop\\RunGroop\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "RunGroop\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Projects\\RunGroop\\RunGroop\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "RunGroop\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Projects\\RunGroop\\RunGroop\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "RunGroop\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T20:38:57.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\Projects\\RunGroop\\RunGroop\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "RunGroop\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "D:\\Projects\\RunGroop\\RunGroop\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "RunGroop\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T23:15:50.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "D:\\Projects\\RunGroop\\RunGroop\\Views\\Club\\Detail.cshtml",
-              "RelativeDocumentMoniker": "RunGroop\\Views\\Club\\Detail.cshtml",
-              "ToolTip": "D:\\Projects\\RunGroop\\RunGroop\\Views\\Club\\Detail.cshtml",
-              "RelativeToolTip": "RunGroop\\Views\\Club\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-31T12:07:53.487Z"
+              "WhenOpened": "2025-01-03T17:26:59.091Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -88,10 +83,35 @@
               "RelativeDocumentMoniker": "RunGroop\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\Projects\\RunGroop\\RunGroop\\Controllers\\AccountController.cs",
               "RelativeToolTip": "RunGroop\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T20:32:47.125Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\RunGroop\\RunGroop\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroop\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\Projects\\RunGroop\\RunGroop\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "RunGroop\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T23:15:50.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\Projects\\RunGroop\\RunGroop\\Views\\Club\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RunGroop\\Views\\Club\\Detail.cshtml",
+              "ToolTip": "D:\\Projects\\RunGroop\\RunGroop\\Views\\Club\\Detail.cshtml",
+              "RelativeToolTip": "RunGroop\\Views\\Club\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T12:07:53.487Z"
             }
           ]
         }
