@@ -115,6 +115,22 @@ namespace RunGroop.Controllers
                 return View(clubVM);
             }
         }
+
+        public async Task<IActionResult> Delete(int id)
+        {
+            var ClubDetails = await _clubRepository.GetByIdAsync(id);
+            if(ClubDetails == null) return View("Error");
+            return View(ClubDetails);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        public async Task<IActionResult> DeleteClub(int id)
+        {
+            var ClubDetails = await _clubRepository.GetByIdAsync(id);
+            if (ClubDetails == null) return View("Error");
+            _clubRepository.Delete(ClubDetails);
+            return RedirectToAction("index");
+        }
     }
 }
 
